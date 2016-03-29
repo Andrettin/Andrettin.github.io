@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Teuton Temple and Faction Flair Interfaces"
-date:   2016-03-29 20:50:00 +0200
+title:  "Teuton Temple, Faction Flair Interfaces and New Forest Rocks"
+date:   2016-03-30 00:05:00 +0200
 categories:  blog
 comments: true
 ---
@@ -14,3 +14,7 @@ Jinn is currently also working on the Teuton temple, which is coming along nicel
 ![Work-in-Progress Teuton Temple]({{ site.url }}/images/teuton_temple_wip.png)
 
 The next step will be to work on the rendered model pixel by pixel, to produce the 2D graphics used by the game.
+
+Another artist who has worked on a lot of graphics for Wyrmsun, [Exidelo](http://www.pixeljoint.com/p/26118.htm), is currently working on remaking the rocks for the forest tileset. To conclude this update, I leave you with a preview:
+
+![Work-in-Progress Forest Rocks]({{ site.url }}/images/forest_rocks_wip.png)
