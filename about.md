@@ -10,4 +10,4 @@ In the Wyrmsun universe a myriad of inhabited planets exist. Humans dwell on Ear
 
 Follow this blog to keep up to date with the latest development news!
 
-Visit our [official website](http://andrettin.github.io/) for more information.
+Visit our [official website](http://andrettin.github.io/) for more information on the game.
