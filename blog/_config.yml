@@ -10,8 +10,8 @@ title: Wyrmsun Development Blog
 email: wyrmsun@stratagus.com
 description: > # this means to ignore newlines until "baseurl:"
   Wyrmsun is a strategy game that features elements of history, mythology and fiction. Follow this blog to keep up to date with the latest development news!
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://andrettin.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://andrettin.github.io/blog" # the base hostname & protocol for your site
 twitter_username: wyrmsun
 github_username:  Andrettin
 
