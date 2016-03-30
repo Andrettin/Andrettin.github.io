@@ -4,6 +4,7 @@ title:  "Teuton Temple, Faction Flair Interfaces and New Forest Rocks"
 date:   2016-03-30 00:05:00 +0200
 categories:  blog
 comments: true
+tags: [teuton, temple, church, faction flair, dlc, frank, frankish, forest, rocks]
 ---
 Yesterday the artist who has created most of Wyrmsun's graphics, [Jinn](http://jinndevil.tumblr.com/), finished with an update that is being prepared for the Faction Flair Packs: they're soon going to include command panels interface graphics of their own. Here's a preview of the new Frankish interface:
 

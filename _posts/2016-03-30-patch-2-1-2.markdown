@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Patch 2.1.2"
+date:   2016-03-30 22:42:00 +0200
+categories:  blog
+comments: true
+tags: [patch]
+---
+-----------------------------------------------------------------------
+- 2.1.2 Changelog
+-----------------------------------------------------------------------
+
+* DLCs
+- Added command panel interface graphics in the Brising Faction Flair Pack (by Jinn).
+- Added command panel interface graphics in the Frankish Faction Flair Pack (by Jinn).
+
+* Grand Strategy
+- At the start of the game, if a province has more workers than it can feed, that quantity will be automatically reduced to the maximum number of workers the province can feed.
+- Fixed issue which caused factions to generate names for tiles even if their language was the same as their civilization's.
+- Provinces owned by factions at game start now begin with at least four workers (if it can feed that many).
+- Provinces owned by factions at game start now begin with at least two infantry units.
+
+* Miscellaneous
+- The time of day is now written in the interface (thanks to Marcelo Fernandez).
+- Fixed issue with results screen.
+
+* Units
+- Units will now attack non-predator fauna units that are attacking one of your units (i.e. yales that attacked an unit of yours who got close to it).
+- The popup which appears when hovering a single-selected unit now has information on its stats, and right-clicking the button now leads to its encyclopedia entry. 
