@@ -9,7 +9,7 @@ Yesterday the artist who has created most of Wyrmsun's graphics, [Jinn](http://j
 
 ![Frankish Interface]({{ site.url }}/screenshots/screen_frankish_army.png)
 
-Jinn is currently also working on the Teuton temple, which is coming along nicely. The structure's model is finished, as you can see below:
+Jinn is currently also working on the Teuton temple, which is coming along nicely. The building's appearance is going to be based on the St. Michael's Church in Vienna. The structure's model is finished, as you can see below:
 
 ![Work-in-Progress Teuton Temple]({{ site.url }}/images/teuton_temple_wip.png)
 
