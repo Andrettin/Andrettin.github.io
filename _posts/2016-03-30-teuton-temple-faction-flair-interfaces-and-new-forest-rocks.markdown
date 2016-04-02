@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Teuton Temple, Faction Flair Interfaces and New Forest Rocks"
+title:  "Wyrmsun Development Diary #1: Teuton Temple, Faction Flair Interfaces and New Forest Rocks"
 date:   2016-03-30 00:05:00 +0200
 categories:  blog
 comments: true
