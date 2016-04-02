@@ -17,4 +17,4 @@ And [Exidelo](http://www.pixeljoint.com/p/26118.htm) has completed the revamp of
 
 ![Forest Rocks]({{ site.url }}/screenshots/screen_forest_rocks.png)
 
-A particularly nice thing about the new rocks Exidelo made is that they have three variations for destroyed rock tiles, and I have improved the engine accordingly to support destroyed tile variations.
+A particularly nice thing about the new rocks Exidelo made is that they have three variations for destroyed rock tiles. I have improved the engine accordingly to support destroyed tile variations.
