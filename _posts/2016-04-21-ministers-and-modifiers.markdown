@@ -12,8 +12,6 @@ Provinces can now have modifiers, which provide benefits (they appear in the lef
 
 ![Treasurer]({{ site.url }}/screenshots/screen_treasurer.png)
 
-Provinces can now have modifiers, which provide benefits (they appear in the left part of the main province interface). The "Build a Library?" event, for instance, now adds a Library modifier to the province, boosting research.
-
 Meanwhile, [Jinn](http://jinndevil.tumblr.com/) has finished the portrait of the dwarven priest:
 
 ![Dwarven Priest]({{ site.url }}/images/dwarven_priest.png)
