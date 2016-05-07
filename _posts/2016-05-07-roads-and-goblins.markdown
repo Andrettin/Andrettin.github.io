@@ -16,4 +16,4 @@ And [Jinn](http://jinndevil.tumblr.com/) has completed the Goblin Stronghold and
 
 ![Goblin Guard Tower]({{ site.url }}/images/goblin_guard_tower.png)
 
-The work on the dwarven priest has continued, so that the tiara for his unit graphics are now completed, and the only thing still missing is his robe.
+The work on the dwarven priest has also continued, so that the tiara for his unit graphics are now completed, and the only thing still missing is his robe.
