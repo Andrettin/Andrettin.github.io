@@ -6,7 +6,7 @@ categories:  blog
 comments: true
 tags: [knowledge, goblin, temple, teuton, priest, cleric, faction flair]
 ---
-The way literary works has been remodeled. When your hero reads one of them, instead of getting a direct bonus, a Knowledge stat of theirs will now be increased. Foremost among those is the Knowledge (Magic) stat. Magic items now need to be identified, and the Knowledge (Magic) performs such a function. Each magic item has a magic level (determined by the item's affixes), and the hero must have a Knowledge (Magic) level as great as the item's magic level or higher to identify it, which happens automatically when the unidentified item is in the hero's inventory. You can see you hero's current knowledge levels by hovering over their portrait when the hero is selected, upon which a tooltip with their extended stats is shown. Your old magic items will not need to be identified.
+The way literary works function has been remodeled. When your hero reads one of them, instead of getting a direct bonus, a Knowledge stat of theirs will now be increased. Foremost among those is the Knowledge (Magic) stat. Magic items now need to be identified, and the Knowledge (Magic) performs that function. Each magic item has a magic level (determined by the item's affixes), and the hero must have a Knowledge (Magic) level as great as the item's magic level or higher to identify it, which happens automatically when the unidentified item is in the hero's inventory. You can see your hero's current knowledge levels by hovering over their portrait when the hero is selected, upon which a tooltip with their extended stats is shown. Your old magic items will not need to be identified.
 
 ![Item Identification]({{ site.url }}/screenshots/screen_identification.png)
 
