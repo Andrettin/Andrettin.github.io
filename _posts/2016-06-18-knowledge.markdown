@@ -16,7 +16,7 @@ As for the goblins, [Jinn](http://jinndevil.tumblr.com/) has completed their tem
 
 ![Goblin Temple]({{ site.url }}/images/goblin_temple.png)
 
-I leave you with a preview of the Teuton Cleric and a building for the next faction flair pack:
+I leave you with a preview of the Teuton Cleric and of a building for the next faction flair pack:
 
 ![Teuton Cleric]({{ site.url }}/images/teuton_cleric.gif)
 
