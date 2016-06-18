@@ -10,7 +10,7 @@ The way literary works has been remodeled. When your hero reads one of them, ins
 
 ![Item Identification]({{ site.url }}/screenshots/screen_identification.png)
 
-Additionally, for every 5 levels in Knowledge (Magic), the hero receives +1 maximum mana.
+Additionally, for every 5 levels in Knowledge (Magic), the hero receives +1 maximum mana. Along with this implementation, dozens of new literary works are being added.
 
 As for the goblins, Jinn has completed their temple:
 ![Goblin Temple]({{ site.url }}/images/goblin_temple.png)
