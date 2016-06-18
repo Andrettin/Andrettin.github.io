@@ -12,7 +12,8 @@ The way literary works has been remodeled. When your hero reads one of them, ins
 
 Additionally, for every 5 levels in Knowledge (Magic), the hero receives +1 maximum mana. Along with this implementation, dozens of new literary works are being added.
 
-As for the goblins, Jinn has completed their temple:
+As for the goblins, [Jinn](http://jinndevil.tumblr.com/)) has completed their temple:
+
 ![Goblin Temple]({{ site.url }}/images/goblin_temple.png)
 
 I leave you with a preview of the Teuton Cleric and a building for the next faction flair pack:
