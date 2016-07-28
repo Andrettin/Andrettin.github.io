@@ -13,3 +13,5 @@ Goblin development is now nearly complete. Their sword icons, user interface and
 ![Goblin Swords]({{ site.url }}/images/goblin_swords.png)
 
 Soon you will be able to play as goblin custom heroes and factions!
+
+A lot of work has also code into fixing existing bugs and paving the way for new features, like the planned religion system.
